@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# It's a Snake Eat Snake World
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+It's a Snake Eat Snake World is a puzzle game of snakes having to stretch their bodies to fit weird shaped food. Just like real life you can see the food in the snake as it is digested. Puzzles are built around growing the snakes to specific shapes. Levels are progressively harder and contiuously add new ways to change the shape of the snakes.
