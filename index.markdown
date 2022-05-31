@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: It's A Snake Eat Snake World
 permalink: /
 ---
